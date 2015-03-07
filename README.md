@@ -1,7 +1,7 @@
 test-element
 ============
 
-See the [component page](http://polymerlabs.github.io/test-element) for more information.
+See the [component page](http://temporary.github.io/test-element) for more information.
 
 ## Getting Started
 
